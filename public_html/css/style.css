@@ -1,0 +1,11 @@
+body {
+    background-color: royalblue;
+}
+
+nav a {
+    color: #ffffff;
+}
+
+#current-link {
+    text-decoration: none;
+}
